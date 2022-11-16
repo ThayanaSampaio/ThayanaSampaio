@@ -21,7 +21,7 @@ A development and programming student from Ceará-BR to the world!🌍
 - 😄 Pronomes: Ela/Dela
 
 - ⚡ Curiosidade: Faço psicologia na UFRGS, mas decidi tomar coragem e começar a programar! 
-
+</p>
 
 
 <div style="display: inline_block"><br>
