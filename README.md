@@ -8,7 +8,7 @@ A development and programming student from Ceará-BR to the world!🌍
 <img align="left" src="https://user-images.githubusercontent.com/107767842/202066343-1431c05f-f4d9-47c7-bb91-0711d8e261de.gif">
 
 
-<p align="left">
+<p align="center">
 
 - 🔭 Atualmente estou trabalhando em aprender e apronfundar meus conhecimentos em Frontend 
 
