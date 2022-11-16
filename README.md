@@ -10,17 +10,17 @@ A development and programming student from Ceará-BR to the world!🌍
 
 <p align="center">
 
-- 🔭 Atualmente estou trabalhando em aprender e apronfundar meus conhecimentos em Frontend 
+🔭 Atualmente estou trabalhando em aprender e apronfundar meus conhecimentos em Frontend 
 
-- 🌱 Atualmente estou aprendendo PHP, JS, REACT, 
+🌱 Atualmente estou aprendendo PHP, JS, REACT, 
  
-- 👯 Estou procurando colaborar em projetos iniciantes.
+👯 Estou procurando colaborar em projetos iniciantes.
 
-- 🤔 Estou procurando ajuda para saber qual seria a melhor area para estudar. 
+🤔 Estou procurando ajuda para saber qual seria a melhor area para estudar. 
  
-- 😄 Pronomes: Ela/Dela
+😄 Pronomes: Ela/Dela
 
-- ⚡ Curiosidade: Faço psicologia na UFRGS, mas decidi tomar coragem e começar a programar! 
+⚡ Curiosidade: Faço psicologia na UFRGS, mas decidi tomar coragem e começar a programar! 
 </p>
 
 
