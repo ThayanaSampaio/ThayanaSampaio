@@ -24,11 +24,11 @@ A development and programming student from Ceará-BR to the world!🌍
 
 # 
 
-<div style="display: inline_block"><br>
+
 
  
   ## 💻 Technologies & Tools
-  <br/>
+  
    <img align="center" alt="Salesforce" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">   
    <img align="center" alt="Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">      
   <img align="center" alt="Js" height="50" width="70"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
