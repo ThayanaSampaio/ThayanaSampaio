@@ -25,7 +25,7 @@ A development and programming student from Ceará-BR to the world!🌍
 # 
 
 
-
+<div style="display: inline_block">
  
   ## 💻 Technologies & Tools
   
