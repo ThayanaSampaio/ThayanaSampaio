@@ -34,8 +34,8 @@ A development and programming student from Ceará-BR to the world!🌍
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   ## 🚀  Learning:
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">           
-  <img align="center" alt="CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">           
+      
+  <img align="center" alt="CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">           
 
 
 ## ⭐ Estatísticas do GitHub
@@ -43,6 +43,8 @@ A development and programming student from Ceará-BR to the world!🌍
 <p alinhar = "centro">
   <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=ThayanaSampaio&show_icons=true&theme=tokyonight&line_height=27">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThayanaSampaio&layout=compact&langs_count=6&theme=tokyonight"/>
+
+ 
 </p>
 </div>
 
