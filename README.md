@@ -10,17 +10,17 @@ A development and programming student from Ceará-BR to the world!🌍
 
 <p align="center">
 
-🔭 Atualmente estou trabalhando em aprender e apronfundar meus conhecimentos em Frontend 
+🔭 Graduanda em Análise e Desenvolvimento de Sistemas;
 
-🌱 Atualmente estou aprendendo PHP, JS, REACT, 
+ ☁️ Formada em Salesforce developer e Salesforce administrator;
+
+🌱 Atualmente estou aprendendo JAVA, 
  
 👯 Estou procurando colaborar em projetos iniciantes.
-
-🤔 Estou procurando ajuda para saber qual seria a melhor area para estudar. 
  
 😄 Pronomes: Ela/Dela
 
-⚡ Curiosidade: Faço psicologia na UFRGS, mas decidi tomar coragem e começar a programar! 
+⚡ Curiosidade: Sai da Psicologia na UFRGS, mas decidi realizar meu sonho de começar a programar! 
 </p>
 
 
