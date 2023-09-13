@@ -65,7 +65,10 @@ A development and programming student from Ceará-BR to the world!🌍
 <a href="https://linkedin.com/in/thayana-sampaio-91257a161" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="thayana-sampaio-91257a161" height="30" width="40"></a>
 <a href="https://instagram.com/thayanasampaio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="thayanasampaio" height="30" width="40" target="_blank"></a>
 <a href="https://twitter.com/Psico_Dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="psico_dev" height="30" width="40" target="_blank"></a>
-<a href ="mailto:thayana.s.sampaio@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23325?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href ="mailto:thayana.s.sampaio@gmail.com"><img width="40" height="40" align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail-new" target="_blank"></a>
+<a href="https://discord.gg/3dM9sr9v" target="_blank"><img align="center" width="40" height="40"src="https://img.icons8.com/matisse/100/discord.png" alt="discord" alt="discord"/></a>
+
+
 </p>
 
   </div>
